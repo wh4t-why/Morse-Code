@@ -1,0 +1,10 @@
+E:\MorseCode\MorseCodeApp\bin\Debug\MorseCodeApp.exe
+E:\MorseCode\MorseCodeApp\bin\Debug\MorseCodeApp.pdb
+E:\MorseCode\MorseCodeApp\obj\x86\Debug\MorseCodeApp.exe
+E:\MorseCode\MorseCodeApp\obj\x86\Debug\MorseCodeApp.pdb
+D:\MorseCode\MorseCodeApp\bin\Debug\MorseCodeApp.exe
+D:\MorseCode\MorseCodeApp\bin\Debug\MorseCodeApp.pdb
+D:\MorseCode\MorseCodeApp\obj\x86\Debug\MorseCodeApp.csproj.CoreCompileInputs.cache
+D:\MorseCode\MorseCodeApp\obj\x86\Debug\MorseCodeApp.exe
+D:\MorseCode\MorseCodeApp\obj\x86\Debug\MorseCodeApp.pdb
+D:\MorseCode\MorseCodeApp\obj\x86\Debug\MorseCodeApp.csproj.AssemblyReference.cache
